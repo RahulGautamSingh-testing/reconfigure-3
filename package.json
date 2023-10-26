@@ -1,5 +1,6 @@
 {
   "renovate": {
-    "enabledManagers": ["npm"]
+    "enabledManagers": ["lmao"],
+    "invalidOption": "invalidValue"
   }
 }
